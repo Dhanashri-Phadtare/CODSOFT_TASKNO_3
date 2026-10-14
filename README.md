@@ -105,6 +105,4 @@ You can tweak these in `app.py`:
 - [Salesforce BLIP](https://github.com/salesforce/BLIP) for the captioning model
 - [Hugging Face](https://huggingface.co/) for the Transformers library
 
-## License
 
-Add a license of your choice (for example, MIT) and update this section.
